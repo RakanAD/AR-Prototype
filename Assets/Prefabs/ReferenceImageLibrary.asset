@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: paques
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5522021190395123845
+      m_GuidHigh: 13030089478688555705
+    m_SerializedTextureGuid:
+      m_GuidLow: 924626047635494714
+      m_GuidHigh: 11688560991272908938
+    m_Size: {x: 0.9634146, y: 1}
+    m_SpecifySize: 1
+    m_Name: animals
+    m_Texture: {fileID: 0}

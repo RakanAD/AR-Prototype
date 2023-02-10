@@ -482,3 +482,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PrefabsAR:
   - {fileID: 1989591693725784454, guid: ceef3a462ac212f44abb5ca26a3aac7b, type: 3}
+  - {fileID: 5329178733281002057, guid: 0db168723ecd383419bcd16407fd4430, type: 3}
