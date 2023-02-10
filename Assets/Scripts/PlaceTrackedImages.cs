@@ -8,23 +8,13 @@ using UnityEngine.XR.ARSubsystems;
 public class PlaceTrackedImages : MonoBehaviour {
     // Reference to AR tracked image manager component
     private ARTrackedImageManager _trackedImagesManager;
-
     // List of prefabs to instantiate - these should be named the same
     // as their corresponding 2D images in the reference image library 
-    public GameObject[] PrefabsAR;
+    [SerializeField]
+    private GameObject[] PrefabsAR;
 
     private readonly Dictionary<string, GameObject> _instantiatedPrefabs = new Dictionary<string, GameObject>();
 
-    //  foreach(var trackedImage in eventArgs.added){
-    // Get the name of the reference image
-    //   var imageName = trackedImage.referenceImage.name;
-    //   foreach (var curPrefab in ArPrefabs) {
-    // Check whether this prefab matches the tracked image name, and that
-    // the prefab hasn't already been created
-    //  if (string.Compare(curPrefab.name, imageName, StringComparison.OrdinalIgnoreCase) == 0
-    //   && !_instantiatedPrefabs.ContainsKey(imageName)){
-    // Instantiate the prefab, parenting it to the ARTrackedImage
-    //  var newPrefab = Instantiate(curPrefab, trackedImage.transform);
     void Awake() {
         _trackedImagesManager = GetComponent<ARTrackedImageManager>();
     }
@@ -34,7 +24,6 @@ public class PlaceTrackedImages : MonoBehaviour {
     private void OnDisable() {
         _trackedImagesManager.trackedImagesChanged -= OnTrackedImagesChanged;
     }
-
     private void OnTrackedImagesChanged(ARTrackedImagesChangedEventArgs eventArgs) {
         foreach (var trackedImage in eventArgs.added) {
 
@@ -63,7 +52,6 @@ public class PlaceTrackedImages : MonoBehaviour {
             _instantiatedPrefabs.Remove(trackedImage.referenceImage.name);
             // Or, simply set the prefab instance to inactive
             //_instantiatedPrefabs[trackedImage.referenceImage.name].SetActive(false);
-
         }
 
     }
