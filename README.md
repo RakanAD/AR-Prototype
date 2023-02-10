@@ -1,2 +1,2 @@
 # AR-Prototype-ANDROID
- Prototype destiné à de la PLV
+ Projet de Réalité Augmentée destiné à de la PLV
