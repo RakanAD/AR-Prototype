@@ -37,3 +37,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: animals
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5251370547632498335
+      m_GuidHigh: 5967359389121745027
+    m_SerializedTextureGuid:
+      m_GuidLow: 7504279979657643655
+      m_GuidHigh: 8379900774113000875
+    m_Size: {x: 1, y: 0.57015985}
+    m_SpecifySize: 1
+    m_Name: BusinessCard
+    m_Texture: {fileID: 0}
