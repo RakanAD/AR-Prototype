@@ -1,2 +1,2 @@
 # AR-Prototype-ANDROID
- Projet de Réalité Augmentée destiné à de la PLV
+ Projet de Réalité Augmentée à but pédagogique
