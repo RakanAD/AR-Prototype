@@ -212,7 +212,7 @@
     },
     "com.unity.xr.arkit-face-tracking": {
       "version": "4.2.7",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.xr.arkit": "4.2.7",
