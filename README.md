@@ -18,3 +18,4 @@ Projet de Réalité Augmentée à but pédagogique.
 3. Changer de platforme en cliquant sur Android puis 'Switch Platform' enfin 'Build'
 
 ## L'image tracker
+![Brown  Business Card](https://user-images.githubusercontent.com/76219145/224686364-9c83e760-d275-4ad7-9a22-3fdfd6d53d9f.png)
