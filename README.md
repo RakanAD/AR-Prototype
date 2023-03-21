@@ -1,5 +1,5 @@
 # AR-Prototype-ANDROID
-Projet de Réalité Augmentée à but pédagogique.
+Projet de Réalité Augmentée à but pédagogique. Pour l'instant on retrouve sur ce projet une carte de visite intéractif.
 ## Prérequis
 1. Installer UnityHub (gestionnaire de projets et d'installations Unity)
 2. Installer une version LTS de Unity (Long Term Support)
