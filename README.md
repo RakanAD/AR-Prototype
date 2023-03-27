@@ -2,6 +2,7 @@
 Projet de Réalité Augmentée à but pédagogique. Pour l'instant on retrouve sur ce projet :
 
 - Une carte de visite intéractif.
+- Projet Yu-Gi-Oh
 ## Prérequis
 - Installer UnityHub (gestionnaire de projets et d'installations Unity)
 - Installer une version LTS de Unity (Long Term Support)
