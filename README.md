@@ -1,5 +1,5 @@
 # AR-Prototype-ANDROID
-Projet de Réalité Augmentée à but pédagogique. Pour l'instant on retrouve sur ce projet :
+Projet de Réalité Augmentée à but pédagogique. Liste des projets :
 
 - Une carte de visite intéractif.
 - Projet Yu-Gi-Oh
