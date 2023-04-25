@@ -4,9 +4,10 @@ Projet de Réalité Augmentée à but pédagogique. Liste des projets :
 - Une carte de visite intéractif.
 - Projet AR Yu-Gi-Oh.
 ## Prérequis
+- Avoir un smartphone Android
 - Installer UnityHub (gestionnaire de projets et d'installations Unity)
 - Installer une version LTS de Unity (Long Term Support)
-- Ajouter le module Android (optionnel si vous ne faites pas d'export)
+- Ajouter le module Android
 
 ## Mise en place du projet Unity sur votre machine 
 - Cloner le projet via Github Desktop ou télécharger en ZIP puis l'extraire
