@@ -2,7 +2,7 @@
 Projet de Réalité Augmentée à but pédagogique. Liste des projets :
 
 - Une carte de visite intéractif.
-- Projet AR Yu-Gi-Oh.
+- Jeu de carte en AR.
 ## Prérequis
 - Avoir un smartphone Android
 - Installer UnityHub (gestionnaire de projets et d'installations Unity)
