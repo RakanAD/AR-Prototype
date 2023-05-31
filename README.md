@@ -4,9 +4,9 @@ Projet de Réalité Augmentée à but pédagogique. Liste des projets :
 - Une carte de visite intéractif.
 - Jeu de carte en AR.
 ## Prérequis
-- Avoir un smartphone Android
+- Avoir un smartphone Android minimum 7.0 'Nougat' (API Level 24)
 - Installer UnityHub (gestionnaire de projets et d'installations Unity)
-- Installer une version LTS de Unity (Long Term Support)
+- Installer une version LTS (Long Term Support) de Unity version 2019.1 minimum 
 - Ajouter le module Android
 
 ## Mise en place du projet Unity sur votre machine 
